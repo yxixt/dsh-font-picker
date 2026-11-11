@@ -26,11 +26,11 @@ DeepSeek Harness の既定フォントスタックは次の順序です。
 DSH の **プラグイン → インストール** から、次のいずれかを入力してください。
 
 ```
-github:<your-name>/dsh-font-picker
+github:/yxixt/dsh-font-picker
 ```
 
 ```
-https://github.com/<your-name>/dsh-font-picker
+https://github.com/yxixt/dsh-font-picker
 ```
 
 インストール後、**DSH を再起動**（またはブラウザを再読み込み）してください。
