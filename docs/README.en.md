@@ -26,11 +26,11 @@ This plugin inserts a Japanese font ahead of that stack so Japanese text renders
 In DSH, open **Plugins → Install** and enter either of:
 
 ```
-github:<your-name>/dsh-font-picker
+github:yxixt/dsh-font-picker
 ```
 
 ```
-https://github.com/<your-name>/dsh-font-picker
+https://github.com/yxixt/dsh-font-picker
 ```
 
 Then **restart DSH** (or reload the browser).
