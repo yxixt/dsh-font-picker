@@ -35,7 +35,7 @@ The default font stack places Chinese fonts before any Japanese font, so Japanes
 ### インストール / Install
 
 ```
-github:<your-name>/dsh-font-picker
+github:yxixt/dsh-font-picker
 ```
 
 インストール後に DSH を再起動、またはブラウザを再読み込みしてください。
