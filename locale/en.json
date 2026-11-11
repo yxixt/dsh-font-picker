@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Japanese Font Picker",
+    "description": "Switch the Web UI to a well-known Japanese font (Yu Gothic, Meiryo, Noto Sans JP and more) from a dropdown. One click restores the default stack.",
+    "detail": "docs/README.en.md"
+  }
+}

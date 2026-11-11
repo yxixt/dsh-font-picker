@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "日本語フォント選択",
+    "description": "游ゴシック・メイリオ・Noto Sans JP など有名どころの日本語フォントをドロップダウンで切り替え。ワンクリックで既定に戻せます。",
+    "detail": "docs/README.ja.md"
+  }
+}

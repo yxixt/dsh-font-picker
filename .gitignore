@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Package artifacts
+*.tgz
+*.tar.gz
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local scratch
+dist/
+*.local

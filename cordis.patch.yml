@@ -1,0 +1,16 @@
+# dsh-font-picker — Japanese font picker for the dsh Web UI.
+#
+# This bundle inserts one Host row and one client plugin. The client plugin
+# renders a card on the Plugins page (plugins.row.config slot) where you pick a
+# well-known Japanese font for text / code / terminal, or restore the built-in
+# default stack with one click.
+#
+# It does NOT define its own settings namespace: the values it writes are the
+# standard font-family fields of the `ui-theme` plugin
+# (textFontFamily / codeFontFamily / terminalFontFamily), so the Appearance and
+# Font settings rows in Settings stay in sync and any manual value written there
+# keeps working.
+- insert:
+    - id: font-picker
+      name: dsh-font-picker
+      config: {}
